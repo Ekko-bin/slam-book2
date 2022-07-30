@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp",
+        "core": "cpp",
+        "ctime": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "cstdint": "cpp",
+        "random": "cpp",
+        "atomic": "cpp"
+    }
+}

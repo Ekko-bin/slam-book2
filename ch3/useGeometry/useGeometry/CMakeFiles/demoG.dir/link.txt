@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/demoG.dir/demoG.cpp.o  -o demoG 

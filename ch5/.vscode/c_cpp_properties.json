@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/usr/include/**",
+                "/usr/include/boost/compute/interop",
+                "/usr/include/eigen3/**",
+                "/usr/include/eigen3/Eigen/**"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}

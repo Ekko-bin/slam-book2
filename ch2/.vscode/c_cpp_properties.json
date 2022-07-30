@@ -1,0 +1,58 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/ekko/ROS/navigation-melodic-devel/devel/include/**",
+        "/home/ekko/ROS/catkin_aote/devel/include/**",
+        "/home/ekko/ROS/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/amcl/include/**",
+        "/home/ekko/ROS/catkin_aote/src/aote_param/include/**",
+        "/home/ekko/ROS/catkin_aote/src/aote_server/include/**",
+        "/home/ekko/ROS/catkin_aote/src/aote_tf01_staric/include/**",
+        "/home/ekko/ROS/catkin_aote/src/aote_tf02_dynamic/include/**",
+        "/home/ekko/ROS/catkin_aote/src/aote_tf03_duozuobiao/include/**",
+        "/home/ekko/ROS/catkin_aote/src/aote_tf04_test/include/**",
+        "/home/ekko/ROS/catkin_aote/src/aote_topic/include/**",
+        "/home/ekko/ROS/catkin_aote/src/aote_urdf_gazebo/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/base_local_planner/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/carrot_planner/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/clear_costmap_recovery/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/costmap_2d/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/dwa_local_planner/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/global_planner/include/**",
+        "/home/ekko/ROS/catkin_aote/src/launch01_basis/include/**",
+        "/home/ekko/ROS/catkin_ws/src/learning_parameter/include/**",
+        "/home/ekko/ROS/catkin_ws/src/learning_service/include/**",
+        "/home/ekko/ROS/catkin_ws/src/learning_tf/include/**",
+        "/home/ekko/ROS/catkin_ws/src/learning_topic/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/map_server/include/**",
+        "/home/ekko/ROS/catkin_ws/src/mbot_bringup/include/**",
+        "/home/ekko/ROS/catkin_ws/src/mbot_gazebo/include/**",
+        "/home/ekko/ROS/catkin_ws/src/mbot_navigation/include/**",
+        "/home/ekko/ROS/catkin_ws/src/mbot_teleop/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/move_base_jiabin/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/move_slow_and_clear/include/**",
+        "/home/ekko/ROS/catkin_aote/src/mrpt_localization/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/nav_core/include/**",
+        "/home/ekko/ROS/catkin_aote/src/nav_demo/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/navfn/include/**",
+        "/home/ekko/ROS/catkin_aote/src/plub_head/include/**",
+        "/home/ekko/ROS/catkin_ws/src/read_parm_test/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/rotate_recovery/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/turtlebot3_include/turtlebot3_fake/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/turtlebot3_include/turtlebot3_gazebo/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/turtlebot3_include/turtlebot3_slam/include/**",
+        "/home/ekko/ROS/catkin_ws/src/usb_cam/include/**",
+        "/home/ekko/ROS/navigation-melodic-devel/src/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
